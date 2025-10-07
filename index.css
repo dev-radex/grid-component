@@ -5,6 +5,7 @@
 }
 body{
     background-color: #d3caca;
+    font-family: 'Inter', sans-serif;
 }
 main{
     display: grid;
@@ -41,6 +42,8 @@ h1{
 }
 .side1{
     background-color: #569c9c;
+    padding-bottom: 15px;
+    height: 280px;
 }
 .top1{
     margin-left: 80px;
@@ -75,6 +78,8 @@ input:hover{
     background-color:  #40b6b6;
     color: white;
     height: 280px;
+    padding-bottom: 5px;
+
 }
 .top2{
     margin-left: 80px;
